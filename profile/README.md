@@ -8,5 +8,5 @@
 [quests](https://wowdb.wiki/forever/quests) and the [world map](https://wowdb.wiki/forever/map),
 with names, stats and icons read from the game client.
 
-- [World Recorder](https://github.com/wowdb-wiki/world-recorder): the WoW Forever addon and uploader that bring your characters and what your client sees to wowdb.wiki.
-- [wowdb-wiki.github.io](https://wowdb-wiki.github.io): what wowdb.wiki offers WoW Forever players.
+- [World Recorder](https://github.com/azeroth-db/world-recorder): the WoW Forever addon and uploader that bring your characters and what your client sees to wowdb.wiki.
+- [azeroth-db.github.io](https://azeroth-db.github.io): what wowdb.wiki offers WoW Forever players.
