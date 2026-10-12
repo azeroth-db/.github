@@ -9,4 +9,5 @@
 with names, stats and icons read from the game client.
 
 - [World Recorder](https://github.com/azeroth-db/world-recorder): the WoW Forever addon and uploader that bring your characters and what your client sees to wowdb.wiki.
+- [wowdb-search](https://github.com/azeroth-db/wowdb-search): the browser extension that searches wowdb.wiki from the address bar.
 - [azeroth-db.github.io](https://azeroth-db.github.io): what wowdb.wiki offers WoW Forever players.
